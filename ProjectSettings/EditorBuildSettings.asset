@@ -4,4 +4,7 @@
 EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
-  m_Scenes: []
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AR_Projects/03_4DViews/03_4DViews.unity
+    guid: 548c9305c8846de4fb53b83136c32e53
